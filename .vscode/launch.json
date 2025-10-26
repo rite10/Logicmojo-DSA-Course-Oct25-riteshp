@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SortArray",
+            "request": "launch",
+            "mainClass": "SortArray",
+            "projectName": "DSA-using-java_65c26177"
+        },
+        {
+            "type": "java",
+            "name": "RotateArray",
+            "request": "launch",
+            "mainClass": "RotateArray",
+            "projectName": "Java-30-sep_e0b2a3e8"
+        },
+        {
+            "type": "java",
+            "name": "SortArray",
+            "request": "launch",
+            "mainClass": "SortArray",
+            "projectName": "Java-30-sep_e0b2a3e8"
+        },
+        {
+            "type": "java",
+            "name": "ContainerWithMostWater",
+            "request": "launch",
+            "mainClass": "ContainerWithMostWater",
+            "projectName": "Java-30-sep_e0b2a3e8"
+        },
+        {
+            "type": "java",
+            "name": "TrappingRainWater",
+            "request": "launch",
+            "mainClass": "TrappingRainWater",
+            "projectName": "Java-30-sep_e0b2a3e8"
+        },
+        {
+            "type": "java",
+            "name": "SearchInRotaedArray",
+            "request": "launch",
+            "mainClass": "SearchInRotaedArray",
+            "projectName": "Java-30-sep_e0b2a3e8"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "Java-30-sep_e0b2a3e8"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSortExample",
+            "request": "launch",
+            "mainClass": "BubbleSortExample",
+            "projectName": "Java-30-sep_e0b2a3e8"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Java-30-sep_e0b2a3e8"
+        },
+        {
+            "type": "java",
+            "name": "ThreadGroupActiveCount",
+            "request": "launch",
+            "mainClass": "ThreadGroupActiveCount",
+            "projectName": "Java-30-sep_e0b2a3e8"
+        },
+        {
+            "type": "java",
+            "name": "ThreadGroupDemo",
+            "request": "launch",
+            "mainClass": "ThreadGroupDemo",
+            "projectName": "Java-30-sep_e0b2a3e8"
+        },
+        {
+            "type": "java",
+            "name": "ThreadYieldDemo",
+            "request": "launch",
+            "mainClass": "ThreadYieldDemo",
+            "projectName": "Java-30-sep_e0b2a3e8"
+        },
+        {
+            "type": "java",
+            "name": "NotifyDemo",
+            "request": "launch",
+            "mainClass": "NotifyDemo",
+            "projectName": "Java-30-sep_e0b2a3e8"
+        },
+        {
+            "type": "java",
+            "name": "SyncExample",
+            "request": "launch",
+            "mainClass": "SyncExample",
+            "projectName": "Java-30-sep_e0b2a3e8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "SynchrnizationDemo",
+            "request": "launch",
+            "mainClass": "SynchrnizationDemo",
+            "projectName": "Java-30-sep_e0b2a3e8"
+        }
+    ]
+}
