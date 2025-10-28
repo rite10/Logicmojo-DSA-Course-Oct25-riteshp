@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MoveZeroProblem",
+            "request": "launch",
+            "mainClass": "MoveZeroProblem",
+            "projectName": "DSA-using-java_65c26177"
+        },
+        {
+            "type": "java",
             "name": "SortArray",
             "request": "launch",
             "mainClass": "SortArray",
