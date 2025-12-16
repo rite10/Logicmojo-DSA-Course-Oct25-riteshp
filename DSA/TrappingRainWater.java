@@ -10,7 +10,7 @@ public class TrappingRainWater {
             for (int j = 0; j < i; j++) {
                 if (a[j] > lb) {
                     lb = a[j];
-                }
+                }           
             }
             int rb = 0;
             for (int j = i + 1; j < a.length; j++) {

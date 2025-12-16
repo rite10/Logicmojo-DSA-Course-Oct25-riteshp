@@ -6,6 +6,125 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LCA",
+            "request": "launch",
+            "mainClass": "LCA",
+            "projectName": "DSA-using-java_65c26177"
+        },
+        {
+            "type": "java",
+            "name": "BST",
+            "request": "launch",
+            "mainClass": "BST",
+            "projectName": "DSA-using-java_65c26177"
+        },
+        {
+            "type": "java",
+            "name": "Subsets",
+            "request": "launch",
+            "mainClass": "Subsets",
+            "projectName": "DSA-using-java_65c26177"
+        },
+        {
+            "type": "java",
+            "name": "FindTheMergePointOfList",
+            "request": "launch",
+            "mainClass": "FindTheMergePointOfList",
+            "projectName": "DSA-using-java_65c26177"
+        },
+        {
+            "type": "java",
+            "name": "InsertNodeAtSpecificPosition",
+            "request": "launch",
+            "mainClass": "InsertNodeAtSpecificPosition",
+            "projectName": "DSA-using-java_65c26177"
+        },
+        {
+            "type": "java",
+            "name": "TrappingRainWater",
+            "request": "launch",
+            "mainClass": "TrappingRainWater",
+            "projectName": "DSA-using-java_65c26177"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSortExample",
+            "request": "launch",
+            "mainClass": "BubbleSortExample",
+            "projectName": "DSA-using-java_65c26177"
+        },
+        {
+            "type": "java",
+            "name": "MatrixLayerRotation",
+            "request": "launch",
+            "mainClass": "MatrixLayerRotation",
+            "projectName": "DSA-using-java_65c26177"
+        },
+        {
+            "type": "java",
+            "name": "NextGreaterElement",
+            "request": "launch",
+            "mainClass": "NextGreaterElement",
+            "projectName": "DSA-using-java_65c26177"
+        },
+        {
+            "type": "java",
+            "name": "LRUCache",
+            "request": "launch",
+            "mainClass": "LRUCache",
+            "projectName": "DSA-using-java_65c26177"
+        },
+        {
+            "type": "java",
+            "name": "ReversedLinkList",
+            "request": "launch",
+            "mainClass": "ReversedLinkList",
+            "projectName": "DSA-using-java_65c26177"
+        },
+        {
+            "type": "java",
+            "name": "SpiralMatrix",
+            "request": "launch",
+            "mainClass": "SpiralMatrix",
+            "projectName": "DSA-using-java_65c26177"
+        },
+        {
+            "type": "java",
+            "name": "FindTheLargestPrefix",
+            "request": "launch",
+            "mainClass": "FindTheLargestPrefix",
+            "projectName": "DSA-using-java_65c26177"
+        },
+        {
+            "type": "java",
+            "name": "LongestConsecutiveSequence",
+            "request": "launch",
+            "mainClass": "LongestConsecutiveSequence",
+            "projectName": "DSA-using-java_65c26177"
+        },
+        {
+            "type": "java",
+            "name": "MajorityElemntFromArray",
+            "request": "launch",
+            "mainClass": "MajorityElemntFromArray",
+            "projectName": "DSA-using-java_65c26177"
+        },
+        {
+            "type": "java",
+            "name": "PairSmallestMaximum",
+            "request": "launch",
+            "mainClass": "PairSmallestMaximum",
+            "projectName": "DSA-using-java_65c26177"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicateFromSortedArray",
+            "request": "launch",
+            "mainClass": "RemoveDuplicateFromSortedArray",
+            "projectName": "DSA-using-java_65c26177"
+        },
+        {
+            "type": "java",
             "name": "MoveZeroProblem",
             "request": "launch",
             "mainClass": "MoveZeroProblem",
